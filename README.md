@@ -39,8 +39,8 @@ An alternative implementation of the REINFORCE algorithm using TensorFlow. This 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/REINFORCE-CartPole.git
-cd REINFORCE-CartPole
+git clone https://github.com/RisingRedstone/RL-Scratch.git
+cd RL-Scratch
 ```
 
 2. Run the `ReinforceLearning02.py` file to train the REINFORCE algorithm:
@@ -66,4 +66,4 @@ python TensorFlowTestings.py
 - OpenAI for the Gym toolkit and CartPole environment.
 - The community and contributors of Numpy and TensorFlow.
 
-Feel free to explore, experiment, and extend the code. If you have any questions or suggestions, please open an issue. Happy coding!
+Feel free to explore, experiment, and extend the code. If you have any questions or suggestions
